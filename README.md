@@ -4,7 +4,7 @@ This is a Visual Code Extensions list created by myself.
 #### Themes
 - [Monokai Night Theme](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 - [Aylin](https://marketplace.visualstudio.com/items?itemName=AhmedAbdulrahman.aylin)
-
+- [Tinacious Design theme](https://marketplace.visualstudio.com/items?itemName=tinaciousdesign.theme-tinaciousdesign)
 
 #### General
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
